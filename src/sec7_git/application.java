@@ -6,6 +6,11 @@ public class application {
 		
 		System.out.println("Bom Dia!");
 		System.out.println("Boa Tarde!");
+		System.out.println("Boa Noite!");
+		
+		
+		
+		
 
 	}
 
